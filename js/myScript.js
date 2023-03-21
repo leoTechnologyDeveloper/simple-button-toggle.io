@@ -22,6 +22,7 @@ function comprobarEstado() {
         botonFooter.textContent = "Ocultar Footer"
         botonFooter.style.backgroundColor = "red";
         botonFooter.style.color = "white";
+        
        
     } else {
         console.log("No hay Hover");
